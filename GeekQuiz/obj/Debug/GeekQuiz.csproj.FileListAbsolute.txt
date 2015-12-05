@@ -1,0 +1,122 @@
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.csprojResolveAssemblyReference.cache
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\GeekQuiz.dll.config
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\GeekQuiz.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\GeekQuiz.pdb
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Antlr3.Runtime.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\EntityFramework.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\EntityFramework.SqlServer.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.Owin.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.Google.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.Web.Infrastructure.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Newtonsoft.Json.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Owin.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Net.Http.Formatting.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Web.Helpers.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Web.Http.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Web.Http.WebHost.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Web.Mvc.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Web.Optimization.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Web.Razor.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Deployment.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Razor.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\WebGrease.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Web.Helpers.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Web.Mvc.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Web.Optimization.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Web.Razor.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Deployment.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Razor.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Antlr3.Runtime.pdb
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Newtonsoft.Json.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Net.Http.Formatting.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Web.Http.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\System.Web.Http.WebHost.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\EntityFramework.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\EntityFramework.SqlServer.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.Owin.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.Google.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.dll
+C:\Courses\WEBAPI\GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.pdb
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\GeekQuiz.dll.config
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\GeekQuiz.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\GeekQuiz.pdb
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Antlr3.Runtime.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\EntityFramework.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\EntityFramework.SqlServer.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.Owin.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.Google.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.Web.Infrastructure.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Newtonsoft.Json.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Owin.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Net.Http.Formatting.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Web.Helpers.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Web.Http.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Web.Http.WebHost.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Web.Mvc.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Web.Optimization.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Web.Razor.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Deployment.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Web.WebPages.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Razor.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\WebGrease.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Web.Helpers.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Web.Mvc.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Web.Optimization.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Web.Razor.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Web.WebPages.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Deployment.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Razor.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Antlr3.Runtime.pdb
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Newtonsoft.Json.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Net.Http.Formatting.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Web.Http.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\System.Web.Http.WebHost.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\EntityFramework.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\EntityFramework.SqlServer.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.Owin.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.Google.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.csprojResolveAssemblyReference.cache
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.dll
+C:\App Devs\Tutorials\AngularJS\AngularJS_WEBAPI_GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.pdb
