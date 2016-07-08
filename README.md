@@ -17,7 +17,8 @@ Built using VS2015 Community
 |C#|
 |HTML|
 |CSS|
-
+|Linq|
+|Razor|
 
 ---
 
