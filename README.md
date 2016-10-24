@@ -11,13 +11,13 @@ Built using Visual Studio 2015 Community
 ####Techs
 |Tech|
 |----|
-|WebApi2|
+|Web Api 2|
 |AngularJS|
 |C#|
 |HTML|
 |CSS|
 |Linq|
-|Razor|
+|MS SQL Server |
 
 ---
 
