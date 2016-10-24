@@ -1,11 +1,10 @@
-# QuizApp
----
+# AspNet_WebApi2_AngularJS_QuizApp
 
 An ASP.NET Web API service that implements a responsive UI using AngularJS &amp; CSS3 transformations.
 
 ---
 
-Built using VS2015 Community
+Built using Visual Studio 2015 Community
 
 ---
 
