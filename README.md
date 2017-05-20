@@ -10,14 +10,14 @@ Built using Visual Studio 2015 Community
 
 ####Techs
 | Tech |
-|----|
-|Web Api 2|
-|AngularJS|
-|C#|
-|HTML|
-|CSS|
-|Linq|
-|MS SQL Server |
+| ---- |
+| Web Api 2 |
+| AngularJS |
+| C# |
+| HTML |
+| CSS |
+| Linq |
+| MS SQL Server |
 
 ---
 
