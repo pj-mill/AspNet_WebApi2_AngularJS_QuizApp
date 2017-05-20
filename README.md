@@ -9,7 +9,7 @@ Built using Visual Studio 2015 Community
 ---
 
 ####Techs
-|Tech|
+| Tech |
 |----|
 |Web Api 2|
 |AngularJS|
