@@ -11,9 +11,7 @@ Built using Visual Studio 2015 Community
 ####Techs
 
 | Tech |
-
 | ---- |
-
 | Web Api 2 |
 | AngularJS |
 | C# |
