@@ -24,4 +24,4 @@ Built using Visual Studio 2015 Community
 ####Resources
 |Title|Author|Publisher|
 |-----|------|---------|
-|[Hands On Lab: Build a Single Page Application (SPA) with ASP.NET Web API and Angular.js](http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api/build-a-single-page-application-spa-with-aspnet-web-api-and-angularjs)| | ASP.NET |
+|[Hands On Lab: Build a Single Page Application (SPA) with ASP.NET Web API and Angular.js](http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api/build-a-single-page-application-spa-with-aspnet-web-api-and-angularjs)| ASP.NET |
